@@ -1,0 +1,28 @@
+{
+  "name": "react-native-maker-cli",
+  "version": "0.0.1",
+  "description": "An opinionated cli for quickly generating react native components, containers and redux actions, reducers.",
+  "main": "index.js",
+  "bin": {
+    "rn-maker": "./index.js"
+  },
+  "scripts": {
+    "test": "None"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "native",
+    "native",
+    "cli",
+    "react-native",
+    "redux",
+    "react",
+    "redux",
+    "react",
+    "native",
+    "redux"
+  ],
+  "author": "Aqueel Miqdad",
+  "license": "MIT"
+}
