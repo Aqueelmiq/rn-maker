@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native';
 import React from 'react';
 
-const CustomButton = ({<<PROPS>>}) => (
+const <<NAME>> = ({<<PROPS>>}) => (
     <View style={{flex: 1}}>
-        <Text> Hello from Component</Text>
+        <Text> Hello from Component </Text>
     </View>
 )
 
-export default CustomButton;
+export default <<NAME>>;
