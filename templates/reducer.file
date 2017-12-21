@@ -1,0 +1,12 @@
+import <<ACTIONS_NAME>> from <<ACTIONS_PATH>>;
+
+export default <<REDUCER_NAME>> = (state = {}, action) => {
+    switch(action.type) {
+
+<<REDUCER_CASES>>
+
+        default:
+            return state;
+    }
+};
+

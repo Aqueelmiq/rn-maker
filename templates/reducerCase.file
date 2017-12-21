@@ -1,0 +1,2 @@
+        case <<ACTIONS_NAME>>.<<ACTION>>:
+            return state;
