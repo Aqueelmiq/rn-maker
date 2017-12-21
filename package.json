@@ -24,5 +24,8 @@
     "redux"
   ],
   "author": "Aqueel Miqdad",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.12.2"
+  }
 }
